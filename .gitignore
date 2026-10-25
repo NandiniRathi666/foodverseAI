@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+# Secrets & local data
+.env
+*.db
+.streamlit/secrets.toml
+# Node
+node_modules/
+dist/
+# OS / IDE
+.DS_Store
+.idea/
